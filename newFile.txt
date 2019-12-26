@@ -1,2 +1,3 @@
 I am in the process of learning Git and GitHub
 Progress is being made (making changes to this file)
+Created a new branch and made this edit 
